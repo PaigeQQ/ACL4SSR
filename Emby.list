@@ -35,7 +35,7 @@ DOMAIN-SUFFIX,jmsooo.com
 
 
 #Jellyfin水母乐园
-DOMAIN,s2.amazing910.top
+#DOMAIN,s2.amazing910.top
 #Atvii(线路不常换)(速度很快，但貌似不能拖动)
 DOMAIN-SUFFIX,atvii.com
 #NMEmby(线路较常换)
