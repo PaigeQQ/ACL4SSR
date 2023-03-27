@@ -55,7 +55,7 @@ IP-CIDR,46.38.241.8/32
 
 #江湖(红尘)Emby
 DOMAIN,av.happyav.eu.org
-#IP-CIDR,152.69.204.214/32
+IP-CIDR,152.69.204.214/32
 
 
 
