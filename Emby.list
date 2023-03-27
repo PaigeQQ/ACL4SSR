@@ -52,9 +52,9 @@ IP-CIDR,162.55.225.218/32
 DOMAIN-SUFFIX,infinityfly.top
 IP-CIDR,46.38.241.8/32
 
-#红尘Emby
-DOMAIN-SUFFIX,happyav.eu.org
-
+#江湖(红尘)Emby
+DOMAIN,av.happyav.eu.org
+#IP-CIDR,152.69.204.214
 
 
 
