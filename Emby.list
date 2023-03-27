@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,misty.ltd
 DOMAIN-SUFFIX,blueseacdn.com
 DOMAIN,bsem.ddns.me
 DOMAIN,Bluesea.ddns.me
+IP-CIDR,5.78.94.54/32
 #蓝海音乐服(线路没换过)
 DOMAIN-SUFFIX,blueseamusics.com
 #卷毛鼠(线路不常换)
@@ -54,7 +55,7 @@ IP-CIDR,46.38.241.8/32
 
 #江湖(红尘)Emby
 DOMAIN,av.happyav.eu.org
-#IP-CIDR,152.69.204.214
+#IP-CIDR,152.69.204.214/32
 
 
 
