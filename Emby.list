@@ -46,6 +46,8 @@ IP-CIDR,146.19.215.56/32
 #Mulgore(莫高雷)
 DOMAIN-SUFFIX,mulgore.net
 IP-CIDR,202.61.255.248/32
+DOMAIN-SUFFIX,mgl.gay
+
 #EmbyX拨浪鼓(pve)
 DOMAIN-SUFFIX,speedx.one
 IP-CIDR,162.55.225.218/32
