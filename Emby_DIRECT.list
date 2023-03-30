@@ -7,8 +7,9 @@ DOMAIN,fire.atvii.com
 #jellyfin水母乐园
 DOMAIN,s2.amazing910.top
 DOMAIN,ws.jellyfin.asia
+#jellyfin VIP
 DOMAIN,vip1.jellyfin.asia
-
+DOMAIN,s3.amazing910.top
 
 # 片库 大陆线路：
 DOMAIN-SUFFIX,btnull.nu
