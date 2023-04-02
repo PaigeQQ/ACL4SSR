@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,amazing910.top
 DOMAIN,ws.jellyfin.asia
 
 #Atvii(线路不常换)(速度很快，但貌似不能拖动)
-DOMAIN-SUFFIX,atvii.com
+#DOMAIN-SUFFIX,atvii.com
 
 #NMEmby(线路较常换)
 DOMAIN-SUFFIX,goodisp.org
