@@ -8,8 +8,10 @@ DOMAIN-KEYWORD,emby
 #1111(包括公费服)
 DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,loseremby.org
+
 #星云(Nebula-Emby)(线路不常换)
 DOMAIN-SUFFIX,nebula-emby.com
+
 #橙子(线路不常换)
 DOMAIN-SUFFIX,embytv.cf
 #peach(线路不常换)
@@ -20,10 +22,13 @@ DOMAIN-SUFFIX,pololine.ml
 
 #终点站(线路不常换)
 DOMAIN-SUFFIX,emby.wtf
+
 #MisakaF(线路不常换)
 DOMAIN-SUFFIX,misakaf.org
+
 #Misty(线路换了几次)
 DOMAIN-SUFFIX,misty.ltd
+
 #蓝海(线路不常换)
 DOMAIN-SUFFIX,blueseacdn.com
 DOMAIN,bsem.ddns.me
@@ -31,18 +36,24 @@ DOMAIN,Bluesea.ddns.me
 IP-CIDR,5.78.94.54/32
 #蓝海音乐服(线路没换过)
 DOMAIN-SUFFIX,blueseamusics.com
+
 #卷毛鼠(线路不常换)
 DOMAIN-SUFFIX,jmsooo.com
 
 
 #Jellyfin水母乐园
 #DOMAIN,s2.amazing910.top
+DOMAIN-SUFFIX,amazing910.top
+DOMAIN,ws.jellyfin.asia
+
 #Atvii(线路不常换)(速度很快，但貌似不能拖动)
 DOMAIN-SUFFIX,atvii.com
+
 #NMEmby(线路较常换)
 DOMAIN-SUFFIX,goodisp.org
 DOMAIN-SUFFIX,chinaisp.org
 IP-CIDR,146.19.215.56/32
+
 #Mulgore(莫高雷)
 DOMAIN-SUFFIX,mulgore.net
 IP-CIDR,202.61.255.248/32
@@ -51,6 +62,7 @@ DOMAIN-SUFFIX,mgl.gay
 #EmbyX拨浪鼓(pve)
 DOMAIN-SUFFIX,speedx.one
 IP-CIDR,162.55.225.218/32
+
 #Infinityfly
 DOMAIN-SUFFIX,infinityfly.top
 IP-CIDR,46.38.241.8/32
