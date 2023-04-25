@@ -1,7 +1,6 @@
 name: dns覆写
 desc: doh
 
-
 dns:
   default-nameserver:
   - 119.29.29.29
