@@ -1,0 +1,30 @@
+name: dns覆写
+desc: doh
+
+
+dns:
+  default-nameserver:
+  - 119.29.29.29
+  - 223.5.5.5
+  enable: true
+  enhanced-mode: fake-ip
+  fake-ip-filter:
+  - '*.lan'
+  - localhost.ptlogin2.qq.com
+  - +.srv.nintendo.net
+  - +.stun.playstation.net
+  - +.msftconnecttest.com
+  - +.msftncsi.com
+  - +.xboxlive.com
+  - msftconnecttest.com
+  - xbox.*.microsoft.com
+  - '*.battlenet.com.cn'
+  - '*.battlenet.com'
+  - '*.blzstatic.cn'
+  - '*.battle.net'
+  fake-ip-range: 198.18.0.1/16
+#  ipv6: true
+  listen: 0.0.0.0:53
+  nameserver:
+  - https://doh.pub/dns-query
+  - https://dns.alidns.com/dns-query
