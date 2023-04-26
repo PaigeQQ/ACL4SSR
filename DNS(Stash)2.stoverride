@@ -3,6 +3,7 @@ desc: 国内网站使用腾讯与阿里DNS，国外网站使用Cloudflare与谷�
 
 dns:
   enable: true
+#  ipv6: true
   listen: 0.0.0.0:53
   default-nameserver:
     - 119.29.29.29
