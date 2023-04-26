@@ -7,6 +7,7 @@ dns:
   default-nameserver:
     - 119.29.29.29
     - 223.5.5.5
+    - system
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
@@ -36,8 +37,20 @@ dns:
 #    - https://223.6.6.6/dns-query
 
   fallback:
-    - https://1.1.1.1/dns-query
-    - https://dns.google/dns-query
+# DNS.SB
+    - https://doh.dns.sb/dns-query
+
+# cloudflare
+    - https://dns.cloudflare.com/dns-query
+    - https://cloudflare-dns.com/dns-query
+#    - https://1.1.1.1/dns-query
+# 台湾Quad 101
+#    - https://dns.twnic.tw/dns-query
+
+# Google
+#    - https://dns.google/dns-query
+#    - tls://8.8.4.4:853
+
   fallback-filter:
     geoip: true
     geoip-code: CN
