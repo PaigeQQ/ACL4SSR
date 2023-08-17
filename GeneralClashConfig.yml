@@ -1,3 +1,7 @@
+##  ACL4SSR的配置文件  
+##  原地址:https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/GeneralClashConfig.yml
+##  jan
+
 #---------------------------------------------------#
 # 配置文件需要放置在 $HOME/.config/clash/config.yml
 # 或者运行目录下的config.yml
