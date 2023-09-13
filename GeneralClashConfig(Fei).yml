@@ -34,6 +34,7 @@ dns:
     - '*.battlenet.com'
     - '*.blzstatic.cn'
     - '*.battle.net'
+## 下面几条为实验，其中“network-test.debian.org” 为冲浪板“always-real-ip”真实存在   
     - 'network-test.debian.org'
     - 'www.baidu.com'
     - 'www.google.com.hk'
