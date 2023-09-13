@@ -36,6 +36,7 @@ dns:
     - '*.battle.net'
     - 'network-test.debian.org'
     - 'www.baidu.com'
+    - 'www.google.com.hk'
   nameserver:
     - https://dns.alidns.com/dns-query
 ##    - https://doh.pub/dns-query
