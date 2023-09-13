@@ -35,6 +35,7 @@ dns:
     - '*.blzstatic.cn'
     - '*.battle.net'
     - 'network-test.debian.org'
+    - 'www.baidu.com'
   nameserver:
     - https://dns.alidns.com/dns-query
 ##    - https://doh.pub/dns-query
