@@ -1,0 +1,31 @@
+# 直连
+# ,no-resolve
+
+#BDD
+DOMAIN,media.bddup.com
+IP-CIDR,60.18.196.174/32
+
+#atvii
+DOMAIN,fire.atvii.com
+
+#jellyfin水母乐园
+#以下2个非会员服 目前不能直连
+#DOMAIN,s2.amazing910.top
+#DOMAIN,ws.jellyfin.asia
+#jellyfin VIP
+DOMAIN,vip1.jellyfin.asia
+DOMAIN,s3.amazing910.top
+
+#蓝海
+DOMAIN,bsyid.otoou.com
+
+# 片库 大陆线路：
+DOMAIN-SUFFIX,btnull.nu
+DOMAIN-SUFFIX,btnull.in
+DOMAIN-SUFFIX,btnull.fun
+
+#鹅城
+IP-CIDR,154.17.12.147/32
+
+
+
