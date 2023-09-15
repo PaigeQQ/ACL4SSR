@@ -3,26 +3,8 @@
 ##xxxxxxx
 #更新时间2023-04-2
 
+payload:
+
 #1111(包括公费服)
-DOMAIN-SUFFIX,emby.ml
-DOMAIN-SUFFIX,loseremby.org
-DOMAIN-SUFFIX,xmsl.org
-
-#星云(Nebula-Emby)(线路不常换)
-DOMAIN-SUFFIX,nebula-emby.com
-
-#橙子(线路不常换)
-DOMAIN-SUFFIX,embytv.cf
-#peach(线路不常换)
-DOMAIN-SUFFIX,embymv.tk
-#polo(线路不常换)
-DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN-SUFFIX,pololine.ml
-DOMAIN-SUFFIX,dnslink.ml
-
-
-#终点站(线路不常换)
-DOMAIN-SUFFIX,emby.wtf
-
-#MisakaF(线路不常换)
-DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,xmsl.org
+  - DOMAIN-SUFFIX,loseremby.org
