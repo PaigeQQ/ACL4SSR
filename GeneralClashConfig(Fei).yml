@@ -2,14 +2,19 @@
 ##  原地址:https://github.com/Infatuation-Fei/rule/blob/main/Clash/GeneralConfig.yml
 
 
-mixed-port: 7890
+mixed-port: 7998
 allow-lan: true
 bind-address: '*'
+authentication:
+  - admim:123123
+#SOCKS5/HTTP(S)代理验证(相当于设置了密码)，可选，但最好加上。--jan
 mode: rule
 log-level: info
 ipv6: false
-external-controller: 127.0.0.1:9090
 
+
+;; external-controller: 127.0.0.1:9090   #外部控制器,可以使用 RESTful API 来控制你的 clash 内核
+;; secret:67559496  #API授权验证(相当于设置了密码)，可选，但最好加上这个--jan
 dns:
   enable: true
   ipv6: false
