@@ -3,16 +3,18 @@
 # GitHub主页: https://github.com/Coldvvater
 # Update Date: 2023.06.02
 
-mixed-port: 7890      # 混合端口，HTTP和SOCKS5用一个端口
+mixed-port: 7988      # 混合端口，HTTP和SOCKS5用一个端口
 allow-lan: true       # 允许局域网的连接（共享代理）
 bind-address: "*"     # 监听IP白名单，可绑定单个IPv4和v6地址，"*" 为绑定所有IP地址，仅在将allow-lan设置为true时适用
-                      
+;; authentication: ##SOCKS5/HTTP(S)代理验证(相当于设置了密码)，可选。--jan
+;;   - admim:123123                      
 
 ipv6: false            # 开启 IPv6 总开关，关闭阻断所有 IPv6 链接和屏蔽 DNS 请求 AAAA 记录
 mode: rule            # 规则模式：rule（规则） / global（全局代理）/ direct（全局直连）/ script (脚本)
 log-level: info       # 设置日志输出级别 (5 个级别：silent / error / warning / info / debug）
 
-external-controller: 127.0.0.1:9090   # 外部控制器监听地址，可以使用 RESTful API 来控制你的 clash 内核
+;; external-controller: 127.0.0.1:9090   # 外部控制器监听地址，可以使用 RESTful API 来控制你的 clash 内核
+;; secret:67559496  ##API授权验证(相当于设置了密码)，可选，但"RESTful API"开启后最好加上这个--jan
 
 dns:
   enable: true             # 关闭将使用系统 DNS
