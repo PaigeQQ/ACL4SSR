@@ -5,9 +5,9 @@
 mixed-port: 7998
 allow-lan: true
 bind-address: '*'
-authentication:
+authentication: ##SOCKS5/HTTP(S)代理验证(相当于设置了密码)，可选，"allow-lan"开启的话但最好加上。--jan
   - admim:123123
-#SOCKS5/HTTP(S)代理验证(相当于设置了密码)，可选，但最好加上。--jan
+
 mode: rule
 log-level: info
 ipv6: false
