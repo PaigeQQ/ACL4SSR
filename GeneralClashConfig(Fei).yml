@@ -12,7 +12,7 @@ mode: rule
 log-level: info
 ipv6: false
 
-;; external-controller: 127.0.0.1:9090   # 外部控制器监听地址，可以使用 RESTful API 来控制你的 clash 内核
+external-controller: 127.0.0.1:9090   # 外部控制器监听地址，可以使用 RESTful API 来控制你的 clash 内核
 ;; secret:67559496  ##API授权验证(相当于设置了密码)，可选，但"RESTful API"开启后最好加上这个--jan
 
 dns:
