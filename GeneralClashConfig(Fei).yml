@@ -4,7 +4,7 @@
 
 mixed-port: 7988
 allow-lan: false
-bind-address: '*'
+## bind-address: '*' ## allow-lan为true时生效,"*"为所有的 IP 地址
 ## authentication: ##SOCKS5/HTTP(S)代理验证(相当于设置了密码)，可选。--jan
 ##   - admim:123123
 
