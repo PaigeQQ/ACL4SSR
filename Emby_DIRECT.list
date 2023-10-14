@@ -25,8 +25,7 @@ DOMAIN-SUFFIX,btnull.in
 DOMAIN-SUFFIX,btnull.fun
 
 #鹅城
-IP-CIDR,154.17.12.147/32
-
+IP-CIDR,23.225.14.121/32
 
 
 
