@@ -47,7 +47,7 @@ dns:
     - https://dns.alidns.com/dns-query
 ##    - https://doh.pub/dns-query
     - https://43.154.154.162:8443/dns-query
-    - quic://43.154.154.162
+    - tls://43.154.154.162
 
 
 ##script:
