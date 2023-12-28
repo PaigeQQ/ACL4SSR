@@ -46,6 +46,9 @@ dns:
   nameserver:
     - https://dns.alidns.com/dns-query
 ##    - https://doh.pub/dns-query
+    - https://43.154.154.162:8443/dns-query
+    - https://dns.flymc.cc/dns-query
+
 
 ##script:
 ##  shortcuts:
