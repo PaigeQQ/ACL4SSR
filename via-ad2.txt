@@ -1,0 +1,3 @@
+[Adblock Plus 2.0]
+! Version: 202401062131
+! Title: 下面2条为X浏览器的默认去广告
