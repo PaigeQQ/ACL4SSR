@@ -15,5 +15,6 @@
 +.wogg.bf
 +.quark.cn
 
-
+# TV 搜狗手机扫码输入
++.shouji.sogou.com
 
