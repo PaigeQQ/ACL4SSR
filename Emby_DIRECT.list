@@ -21,4 +21,6 @@ DOMAIN-SUFFIX,btnull.fun
 IP-CIDR,23.225.14.121/32,no-resolve
 DOMAIN,tv.the98.ltd
 
+#To2
+IP-CIDR,192.243.117.28/32,no-resolve
 
